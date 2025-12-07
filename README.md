@@ -9,7 +9,7 @@ Lightweight Python script to automatically organize the Windows Downloads folder
 
 ## Quickstart
 1. Clone:
-   git clone https://github.com/<YOUR_GITHUB_USERNAME>/downloads-organizer
+   git clone C:\Users\Shristi\Documents\GitHub\projects\downloads-organizer
 2. Run:
    python src/organizer.py
 
