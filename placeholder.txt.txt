@@ -1,0 +1,5 @@
+Images/
+Documents/
+Videos/
+Code/
+Others/
